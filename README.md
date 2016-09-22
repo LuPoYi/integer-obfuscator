@@ -25,7 +25,7 @@
   => 20654203
 ```
   
-  * PRIME_NUMBER_INVERSE = 20654203 # inverse(PRIME_NUMBER, MAX)
+  * PRIME_NUMBER_INVERSE = 20654203
 
 ```
   def int2serial(source)
@@ -62,4 +62,5 @@
 19 : 60568306 : 19
 20 : 16387691 : 20
 
+# 基本上不特別處理是無法得知 55819384 原始值是 1
 ```
